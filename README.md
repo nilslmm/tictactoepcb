@@ -3,5 +3,6 @@ TicTacToe on a PCB
 
 
 # PCB
-Layout:\n
+Layout:
+
 ![layout](pics/pcb_layout.png?raw=true)
